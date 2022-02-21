@@ -1,0 +1,17 @@
+{
+    "app": {
+        "language": "ru",
+        "languages": ["en", "ru", "ua"],
+        "port": 8088,
+        "force_sync": false,
+        "alter_sync": false,
+        "cookiePassword": "444444444444444444makesurepasswordissecure33333333"
+    },
+    "postgres": {
+        "host": "164.90.166.2",
+        "port": 5432,
+        "user": "postgres",
+        "password": "dtO6FoxVQjr8mfa9",
+        "database": "game"
+    }
+}
